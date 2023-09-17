@@ -14,9 +14,6 @@ As this project is a part of my learning journey, you can expect to see a lot of
     Interactive UI: I'll be using Vue 3's reactivity and component-based architecture to create a smooth experience.
     Responsive Design: The portfolio will be designed to look great on all devices, SASS with be implemented .
 
-If you want to run this project locally or explore the code, you can follow the instructions in the README or visit the live demo here.
-Thank You
-
 # Get started 
 
 ## Project Setup
