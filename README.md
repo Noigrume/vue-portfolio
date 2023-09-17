@@ -1,12 +1,12 @@
-#Vue 3 Portfolio Project
+# Vue 3 Portfolio Project
 
 Welcome to my Vue 3 Portfolio Project repository!
 
-#About This Project
+# About This Project
 
 This project is a part of my journey to learn and master Vue.js, a powerful front-end JavaScript framework. As I continue to explore and experiment with Vue 3, I've decided to build my own portfolio website to showcase my skills, projects, and journey in web development.
 
-#What to Expect
+# What to Expect
 
 As this project is a part of my learning journey, you can expect to see a lot of adjustments, improvements, and new features added over time. Here are some of the key features I plan to implement:
 
@@ -17,7 +17,7 @@ As this project is a part of my learning journey, you can expect to see a lot of
 If you want to run this project locally or explore the code, you can follow the instructions in the README or visit the live demo here.
 Thank You
 
-#Get started 
+# Get started 
 
 ## Project Setup
 
