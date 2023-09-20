@@ -23,9 +23,8 @@ export default {}
   background-color: rgb(23, 23, 23);
   display: flex;
   flex-direction: column;
-  justify-content: left;
-  align-items: top;
   min-height: 100vh;
+  justify-content: top;
 }
 
 section {
@@ -34,8 +33,8 @@ section {
   margin: auto;
   color: rgb(182, 160, 22);
   text-shadow: 1px 1px 2px rgb(0, 0, 0);
-  font-size: 1.4rem;
-  max-width: 80%;
+  text-align: center;
+  max-width: 900px;
 }
 
 h1 {
@@ -45,9 +44,10 @@ h1 {
   margin: 0;
   padding: 20px;
   font-family: 'Oswald', sans-serif;
-  font-size: 15rem;
+  font-size: 10rem;
   font-weight: bolder;
   font-style: italic;
   letter-spacing: 0.1rem;
+  text-align: right;
 }
 </style>
