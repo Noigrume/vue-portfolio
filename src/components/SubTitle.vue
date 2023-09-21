@@ -9,7 +9,6 @@
 }
 .subtitle {
   font-family: 'Mochiy Pop One', sans-serif;
-  font-size: 2rem;
   text-shadow: black 1px 1px 1px;
   color: yellow;
   position: fixed;
