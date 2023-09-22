@@ -26,23 +26,24 @@ export default {
 #main-titles {
   display: flex;
   align-items: left;
+  max-width: 650px;
 }
 #portfolio-title {
-  font-family: 'Sigmar', cursive;
-  font-size: 7rem;
+  font-family: 'Oswald', sans-serif;
+  font-size: 10rem;
+  font-weight: 900;
+  letter-spacing: 0.1rem;
   /* color: #e5d48e; */
-  color: rgb(192, 3, 3);
-  text-shadow: 3px 3px 3px black;
-  line-height: 1;
+  color: rgb(255, 255, 255);
+  /* text-shadow: 3px 3px 3px black; */
 }
 #portfolio-subtitle {
-  color: rgb(0, 0, 0);
-  font-weight: bolder;
-  font-size: 1.5rem;
+  color: rgb(255, 255, 255);
+  font-size: 1.1rem;
   padding: 5px;
   margin: 0;
   text-align: left;
-  background-color: rgba(255, 255, 255, 0);
+  background-color: rgba(0, 0, 0, 0.539);
   grid-column-start: 2;
 }
 .home-page {
